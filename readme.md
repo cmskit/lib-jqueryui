@@ -3,7 +3,7 @@
 This Package contains jQuery and jQuery UI as minified versions.
 All development related Files like tests, examples etc. are removed.
 
-
+In addition some jQuery Plugins can be found at "plugins/".
 
 ## [jQuery UI](http://jqueryui.com/) - Interactions and Widgets for the web
 
