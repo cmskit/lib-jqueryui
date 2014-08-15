@@ -4,6 +4,7 @@ This Package contains jQuery and jQuery UI as minified versions.
 All development related Files like tests, examples etc. are removed.
 
 
+
 ## [jQuery UI](http://jqueryui.com/) - Interactions and Widgets for the web
 
 jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of jQuery.
