@@ -1,0 +1,33 @@
+{
+    "name": "cms-kit library jquery-ui",
+    "description": "jQuery and jQuery UI JavaScript libraries as a production bundle without any development files like tests etc..",
+    "type": "library",
+    "version": "1.10.4",
+    "homepage": "http://jqueryui.com",
+    "license": "MIT",
+    "support": {
+        "irc": "irc://irc.freenode.org/jquery",
+        "issues": "http://bugs.jquery.com",
+        "forum": "http://forum.jquery.com",
+        "wiki": "http://docs.jquery.com/",
+        "source": "https://github.com/jquery/jquery"
+    },
+    "authors": [
+        {
+            "name": "Christoph Taubmann",
+            "email": "info@cms-kit.com"
+        }
+    ],
+    "require":{
+        "php": ">=5.3"
+    },
+    "extra":{
+
+    },
+    "archive": {
+        "exclude": [
+            ".git",
+            ".gitignore"
+        ]
+    }
+}
