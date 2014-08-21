@@ -18,12 +18,7 @@
             "email": "info@cms-kit.com"
         }
     ],
-    "require":{
-        "php": ">=5.3"
-    },
-    "extra":{
-
-    },
+    
     "archive": {
         "exclude": [
             ".git",
