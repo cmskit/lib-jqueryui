@@ -75,7 +75,7 @@ ul.jqueryFolderTree a:hover
 }
 .jqueryFolderTree span
 {
-	background: #bgColorDefault url(../../../../vendor/cmskit/jquery-ui/themes/UI/images/ui-bg_glass_bgImgOpacityDefault_bgColorDefault_1x400.png) 50% 50% repeat-x;
+	background: #bgColorDefault url(images/ui-bg_glass_bgImgOpacityDefault_bgColorDefault_1x400.png) 50% 50% repeat-x;
 	border: 1px solid #borderColorDefault;
 	color: fcDefault;
 	cursor: pointer;

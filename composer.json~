@@ -2,7 +2,7 @@
     "name": "cmskit/jquery-ui",
     "description": "jQuery and jQuery UI JavaScript libraries as a production bundle without any development files like tests etc..",
     "type": "library",
-    "version": "1.11.2",
+    "version": "1.10.4",
     "homepage": "http://jqueryui.com",
     "license": "MIT",
     "support": {
